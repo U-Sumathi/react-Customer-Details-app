@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "customer": "Priya",
+      "datetime": "July 16, 2024 11:47:39 AM",
+      "product": "Diamond Ring."
+    },
+    {
+      "id": "2",
+      "customer": "Roshni",
+      "datetime": "July 10, 2024 11:47:48 AM",
+      "product": "Gold Ring."
+    },
+    {
+      "id": "3",
+      "customer": "Bala",
+      "datetime": "July 1, 2024 11:48:01 AM",
+      "product": "Bracelet."
+    },
+    {
+      "id": "4",
+      "customer": "Divya",
+      "datetime": "July 15, 2024 1:45:40 PM",
+      "product": "Bangles."
+    }
+  ]
+}
